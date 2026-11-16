@@ -1,0 +1,20 @@
+# Python 运行时自动生成的缓存文件夹（不需要上传）
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 虚拟环境文件夹（每个人的电脑上都不一样，不需要上传）
+.venv/
+venv/
+env/
+
+# 环境变量文件（里面可能存着 API Key，绝对不能上传！）
+.env
+
+# 编辑器/IDE 的个人配置
+.vscode/
+.idea/
+
+# 系统自动生成的文件
+.DS_Store
+Thumbs.db
